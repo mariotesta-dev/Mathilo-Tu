@@ -3,8 +3,8 @@
 > ⚠️ NOTE: The android emulators and iOS simulators are not supported by Viro. Please test on the real devices! See [this](https://viro-community.readme.io/docs/frequently-asked-questions#does-this-work-with-ios-simulators-or-android-emulators).
 
 <div style="display: flex; flex-wrap: wrap;">
-    <img src="./screenshots/mainscreen.png" alt="Screenshot 2" style="width: 30%; margin: 11px;">
-    <img src="./screenshots/giraffe.jpeg" alt="Screenshot 1" style="width: 30%; margin: 11px;">
+    <img src="./screenshots/mainscreen.png" alt="Screenshot 2" style="width: 45%; margin: 11px;">
+    <img src="./screenshots/giraffe.jpeg" alt="Screenshot 1" style="width: 45%; margin: 11px;">
 </div>
 
 ## Report
