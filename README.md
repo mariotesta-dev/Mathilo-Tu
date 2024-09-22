@@ -7,7 +7,7 @@
     <img src="./screenshots/giraffe.jpeg" alt="Screenshot 1" style="width: 30%; margin: 11px;">
 </div>
 
-## Group Repository
+## Report
 
 Final Report for Math-ilo Tu! can be found [here](./Report.pdf).
 
@@ -26,3 +26,9 @@ Final Report for Math-ilo Tu! can be found [here](./Report.pdf).
 5. `Open ios/myviroapp.xcworkspace on xCode, connect iPad`
 6. `Change Team Signing & Build Phase node version`
 7. `Run`
+
+## Contributors
+- [Mario Testa](https://github.com/mariotesta-dev/)
+- [Mattia Mazzari](https://github.com/mattiamazzari/)
+- [Flavio Patti](https://github.com/FlavioPatti/)
+- [Giuseppe Forma](https://github.com/Shape94)
