@@ -1,0 +1,16 @@
+# Blender MTL File: 'krapfen.blend'
+# Material Count: 1
+
+newmtl krapfen_final
+Ns 250.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.695014 0.800000 0.064144
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump krapfen_Normal.png
+map_Kd krapfen_Base_color1.png
+map_Ns krapfen_Roughness.png
+refl krapfen_Metallic.png
